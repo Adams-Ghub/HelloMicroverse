@@ -1,32 +1,5 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -34,14 +7,14 @@ After you're finished please remove all the comments and instructions!
     - [Tech Stack](#tech-stack)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 **Hello Microverse** is a project to help master all of the tools and best practices I learned about in documenting my repository in a professional way.
 
@@ -49,7 +22,6 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -61,7 +33,6 @@ After you're finished please remove all the comments and instructions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -73,7 +44,6 @@ After you're finished please remove all the comments and instructions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -84,22 +54,26 @@ After you're finished please remove all the comments and instructions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are always welcome!
+
+Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
 
 If you like this project kindly recommend it to others.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to give a big thank you to Microverse for their great support and guidlines in this project 
+
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](/LICENSE.md) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
