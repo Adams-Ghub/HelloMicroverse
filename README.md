@@ -25,7 +25,6 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -66,13 +65,11 @@ After you're finished please remove all the comments and instructions!
 
 ## 👥 Authors <a name="authors"></a>
 
-
 👤 **Adams Bamfo**
 
 - GitHub: [Adams-Ghub](https://github.com/Adams-Ghub)
 - Twitter: [@bamfoaf](https://twitter.com/bamfoaf)
 - LinkedIn: [Adams Bamfo](https://www.linkedin.com/in/adams-bamfo-3aaa3011b/)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,9 +92,7 @@ After you're finished please remove all the comments and instructions!
 
 If you like this project kindly recommend it to others.
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- LICENSE -->
 
