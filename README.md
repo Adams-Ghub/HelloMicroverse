@@ -5,13 +5,22 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
-
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
@@ -33,6 +42,60 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Key Features <a name="key-features"></a>
+
+ **Homepage**
+ The project features a homepage that has the text "Hello Microverse" boldly displayed on it.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+VS Code or command line and a web browser
+
+### Setup
+
+Clone this repository to your desired folder by doing the following:
+
+  1. In your command line cd into your desired folder
+  
+  2. Enter "git clone https://github.com/Adams-Ghub/HelloMicroverse.git"
+  
+  some text editors like VSCode has embeded terminals you can use. Just follow the steps above.
+
+### Install
+This project is installed once cloned locally. 
+
+### Usage
+To run the project, access your directory and open the homepage.html in your browser.
+
+### Run tests
+To run tests, run the following command:
+
+  npx stylelint "**/*.{css,scss}" to test for errors in your css  in your command line or text editor.
+
+### Deployment
+
+You can deploy this project by uploading content of your local repository into the ".public_html" folder on your server.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -47,9 +110,8 @@
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] **Contact page**
+
 - [ ] **Responsiveness**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
